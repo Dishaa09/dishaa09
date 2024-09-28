@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Dishaa this side</h1>
+<h1 align="center">Hi there👋</h1>
 <h3 align="center">Training Models for the Future | Data Science | Competitive Programming</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishaa09" alt="dishaa09" /></a> </p>
