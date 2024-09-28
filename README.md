@@ -22,5 +22,5 @@
 
 <h3 align="left">Check out My Portfolio</h3>
 <p align="left">
-<a href="https://www.dishaa09.github.io/" target="_blank">Visit My Portfolio</a>
+<a href="https://dishaa09.github.io/" target="_blank">Visit My Portfolio</a>
 </p>
