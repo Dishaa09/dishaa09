@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishaa09" alt="dishaa09" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishaa09&label=Profile%20views&color=0e75b6&style=flat" alt="dishaa09" /> </p>
+
 <h3 align="left">Reach Out to Me</h3>
 <p align="left">
 <a href="[https://www.linkedin.com/in/dishaa-singhi-6126bb1b7/](https://www.linkedin.com/in/dishaa-singhi-6126bb1b7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishaa singhi" height="30" width="40" /></a>
